@@ -1,1 +1,1 @@
-
+hello-job: script: - echo "Helo, CI!"
